@@ -41,7 +41,7 @@ ASpect ratio as a percentage 66%.
 .image {
     width: 100%;
     padding-top: 66%;
-    background: url(/images/hero-mobile.jpg) no-repeat center;
+    background: url(images/hero-mobile.jpg) no-repeat center;
     background-size: cover;
 }
 
